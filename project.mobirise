@@ -41,7 +41,7 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<head>\n    <title>예지의 돌잔치에 초대합니다</title>\n    <meta property=\"og:url\" content=\"https://hjy2815.github.io/dpwl/\">\n    <meta property=\"og:title\" content=\"예지의 돌잔치에 초대합니다\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://i.imgur.com/8QV9Az0.jpg\">\n    <meta property=\"og:description\" content=\"예지의 돌잔치에 초대합니다\">\n    <meta name=\"description\" content=\"예지의 돌잔치에 초대합니다\">\n    <meta name=\"keywords\" content=\"예지의 돌잔치에 초대합니다\">\n    ... \n</head>",
         "footer_custom": "",
         "html_before": ""
       },
