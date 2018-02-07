@@ -1598,9 +1598,6 @@ body {
   right: 50%;
   transition: all .2s;
 }
-.cid-qIWSNavvMA .navbar-dropdown {
-  position: fixed;
-}
 .cid-qIWSNavvMA a.nav-link {
   display: flex;
   align-items: center;
